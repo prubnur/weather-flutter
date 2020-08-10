@@ -4,8 +4,6 @@ A minimalist Flutter app for Android and iOS which uses the OpenWeatherMap API t
 
 # Images
 
-![San Fran](/screenshots/ss1.jpg)
-Format: ![Alt Text](url)
-
-![LA](/screenshots/ss2.jpg)
-Format: ![Alt Text](url)
+San Francisco                       |  Los Angeles
+:----------------------------------:|:-------------------------:
+![San Fran](/screenshots/ss1.jpg))  |  ![LA](/screenshots/ss2.jpg)
